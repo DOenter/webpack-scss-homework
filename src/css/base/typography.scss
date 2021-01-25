@@ -1,0 +1,19 @@
+a {
+	color: #472063;
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+.landing-copy {
+	margin-left: 70px;
+	p {
+		font-size: 1.3em;
+		line-height: 1.4em;
+	}
+	h1 {
+		font-size: 3em;
+		line-height: 1.2em;
+	}
+}

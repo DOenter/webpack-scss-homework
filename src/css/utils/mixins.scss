@@ -1,0 +1,9 @@
+
+@mixin btn-log {
+    border: 2px solid $BasicColor;
+	border-radius: 50px;
+	background-color: #d469a5;
+	color: $BasicColor;
+	font-weight: 700;
+	padding: 5px 20px;
+}
